@@ -41,4 +41,4 @@ You can explore to the issue tab, if there not exists, you can open issue, for h
 
 1. Restart tailscaled with `dockerd.service restart`
 2. Reproduce what are you doing which has problem.
-3. Get log at `dockerd.service log run`
+3. Get log at `dockerd.service logs run`
